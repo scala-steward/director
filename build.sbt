@@ -36,7 +36,7 @@ libraryDependencies ++= {
     "org.apache.pekko" %% "pekko-stream-testkit" % pekkoV,
     "org.apache.pekko" %% "pekko-slf4j" % pekkoV,
     "org.scalatest" %% "scalatest" % scalaTestV % Test,
-    "org.scalacheck" %% "scalacheck" % "1.19.0" % Test,
+    "org.scalacheck" %% "scalacheck" % "1.20.0" % Test,
     "io.github.uptane" %% "libats" % libatsV,
     "io.github.uptane" %% "libats-messaging" % libatsV,
     "io.github.uptane" %% "libats-messaging-datatype" % libatsV,
